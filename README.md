@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
 <head>
     <title>Valentine Proposal 💖</title>
@@ -45,7 +45,7 @@
 </head>
 <body>
 
-    <h1>Will You Be My Valentine? 💘</h1>
+    <h1>MY Sweetheart,Will You Be My Valentine? 💘</h1>
 
     <button id="yes" class="btn">Yes 💖</button>
     <button id="no" class="btn">No 😢</button>
