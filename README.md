@@ -58,7 +58,7 @@
         const message = document.getElementById("message");
 
         yesBtn.addEventListener("click", function() {
-            message.innerHTML = "🎉 Congratulations! 💖<br>Welcome to my life! ❤️✨";
+            message.innerHTML = "🎉 Congratulations! 💖<br>Welcome to my life baby! ❤️✨";
         });
 
         noBtn.addEventListener("mouseover", function() {
